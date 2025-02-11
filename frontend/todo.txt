@@ -1,0 +1,9 @@
+- pembuatan komponen
+- konfigurasi folder awal
+- pattern
+- architecture
+- konfigurasi css
+- library / framework
+- flow => super admin
+- template
+- konfigurasi axios, redux, router
